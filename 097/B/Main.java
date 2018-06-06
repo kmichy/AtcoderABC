@@ -6,7 +6,7 @@ public class Main{
         int a = Integer.parseInt(sc.nextLine());
         String b = sc.nextLine();
         int max = 0;
-        for(int i = 0;i <a;i++){
+        for(int i = 0;i < a;i++){
             String head = b.substring(0,i);
             String tail = b.substring(i);
             int count = 0;
