@@ -1,6 +1,0 @@
-git branch test
-<<<<<<< HEAD
-test2
-=======
-test
->>>>>>> test
